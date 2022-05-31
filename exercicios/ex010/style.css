@@ -1,0 +1,9 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration:underline;
+    color:black;
+    cursor: pointer;
+}
